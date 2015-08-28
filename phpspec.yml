@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Rozee
+        psr4_prefix: Rozee
+        src_path: app
